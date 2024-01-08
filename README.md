@@ -18,7 +18,7 @@ Fecha o programa.
 
 ## Uso 💻
 
-Para utilizar o código, digite dotnet run no terminal e selecione a opção desejada.
+Para utilizar o código, digite *dotnet run* no terminal e selecione a opção desejada.
 
 ```csharp
 dotnet run
